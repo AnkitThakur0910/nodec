@@ -1,4 +1,4 @@
-const app = require("./app");
+// const app = require("./app");
 
 //console.log(app.name);
 
@@ -17,7 +17,11 @@ const app = require("./app");
 //     resp.write("<h1> name is ankit</h1>");
 //     resp.end();
 // }).listen(4300);
-let arr = [1,3,4,5,6,6]
+// let arr = [1,3,4,5,6,6]
 
-const i = arr.map((f)=>{return f>3});
-console.log(i);
+// const i = arr.map((f)=>{return f>3});
+// console.log(i);
+
+// const { color,log} = require('console-log-colors');
+// const { red, green, cyan, blue } = color;
+// console.log(blue("ankit"));
