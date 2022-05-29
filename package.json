@@ -4,7 +4,9 @@
   "description": "My first project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+
   },
   "repository": {
     "type": "git",
@@ -22,6 +24,7 @@
   "homepage": "https://github.com/AnkitThakur0910/nodec#readme",
   "dependencies": {
     "console-log-colors": "^0.2.3",
+    "nodemon": "^2.0.16",
     "simple-node-logger": "^21.8.12"
   }
 }
