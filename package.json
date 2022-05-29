@@ -1,0 +1,30 @@
+{
+  "name": "nodec",
+  "version": "1.0.0",
+  "description": "My first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitThakur0910/nodec.git"
+  },
+  "keywords": [
+    "ankit",
+    "sir"
+  ],
+  "author": "ankit kumar thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitThakur0910/nodec/issues"
+  },
+  "homepage": "https://github.com/AnkitThakur0910/nodec#readme",
+  "dependencies": {
+    "console-log-colors": "^0.2.3",
+    "nodemon": "^2.0.16",
+    "simple-node-logger": "^21.8.12"
+  }
+}
