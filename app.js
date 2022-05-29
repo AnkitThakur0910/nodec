@@ -1,5 +1,5 @@
 module.exports = {
     name : 'ankit',
-    class : '2',
+    class : '3',
     id : '3'
 }
